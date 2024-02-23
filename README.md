@@ -1,4 +1,5 @@
 Animacion en ***CSS:***
 
-![efectos-olas](https://github.com/ezomoza/Wavy-Text/assets/114027093/6189a31b-975b-4cd2-9e54-6dd10af342c1)
+
+![waveanimation](https://github.com/ezomoza/Wavy-Text/assets/114027093/d8bfec9f-1b88-4619-b2c7-28f853d89202)
 
